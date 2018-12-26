@@ -2,9 +2,11 @@ import React from 'react'
 import { Link, graphql } from 'gatsby'
 
 import Bio from '../components/bio'
+import About from '../components/about'
 import Layout from '../components/layout'
 import SEO from '../components/seo'
 import { rhythm } from '../utils/typography'
+import AboutShort from '../components/AboutShort';
 
 class BlogIndex extends React.Component {
   render() {
@@ -18,7 +20,7 @@ class BlogIndex extends React.Component {
           title="All posts"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
-        <Bio />
+        <About />
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (

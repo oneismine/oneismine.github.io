@@ -2,6 +2,7 @@ import React from 'react'
 import { Link, graphql } from 'gatsby'
 
 import Bio from '../components/bio'
+import AboutShort from '../components/AboutShort'
 import Layout from '../components/layout'
 import SEO from '../components/seo'
 import { rhythm, scale } from '../utils/typography'
@@ -16,6 +17,7 @@ class BlogPostTemplate extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title={post.frontmatter.title} description={post.excerpt} />
         <h1>{post.frontmatter.title}</h1>
+        <AboutShort />
         <p
           style={{
             ...scale(-1 / 5),
@@ -33,7 +35,8 @@ class BlogPostTemplate extends React.Component {
           }}
         />
         <Bio />
-
+        <h1>about short</h1>
+        <AboutShort />
         <ul
           style={{
             display: `flex`,
