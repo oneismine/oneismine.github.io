@@ -1,6 +1,9 @@
 ---
 title: Top 10 Tech Podcasts
 date: '2018-12-26T23:46:37.121Z'
+author: 'Adam Gordon Bell'
+twitter: 'adamgordonbell'
+bio: 'Adam Gordon Bell is a Scala developer, who also hosts a podcast on software development'
 ---
 
 

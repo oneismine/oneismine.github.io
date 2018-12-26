@@ -72,4 +72,3 @@ const aboutQuery = graphql`
 `
 
 export default About
-export default AboutShort

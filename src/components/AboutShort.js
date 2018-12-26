@@ -1,8 +1,15 @@
 import React from "react"
+import { rhythm } from '../utils/typography'
 
 export default () => (
-  <div style={{ color: `teal` }}>
-    <h1>About Gatsby</h1>
-    <p>Such wow. Very React.</p>
-  </div>
+  <div
+  style={{
+    marginLeft: "155px",
+    float : "left"
+  }}
+>
+  <p>
+    Tech Listicles by Makers.
+  </p>
+</div>
 )

@@ -16,8 +16,8 @@ class BlogPostTemplate extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title={post.frontmatter.title} description={post.excerpt} />
-        <h1>{post.frontmatter.title}</h1>
         <AboutShort />
+        <h1>{post.frontmatter.title}</h1>
         <p
           style={{
             ...scale(-1 / 5),
@@ -35,8 +35,6 @@ class BlogPostTemplate extends React.Component {
           }}
         />
         <Bio />
-        <h1>about short</h1>
-        <AboutShort />
         <ul
           style={{
             display: `flex`,
