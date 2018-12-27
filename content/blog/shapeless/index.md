@@ -3,7 +3,7 @@ title: Top 10 Shapeless Resources
 date: '2018-12-26T23:46:37.121Z'
 author: 'Adam Gordon Bell'
 twitter: 'adamgordonbell'
-bio: 'Adam Gordon Bell is a Scala developer, who also hosts a podcast on software development'
+bio: 'Adam Gordon Bell is a Scala developer, who also hosts a <a href="https://corecursive.com">podcast on software development</a>'
 ---
 
 ### Intro
@@ -26,4 +26,5 @@ An article tackling whether using shapeless is worth it.  Spoiler alert, it is i
 This is a bit of reach. But let's say it will be intereting to those of us interested in Shapeless.
 ### 9. [The Type Astronaut's Guide to Shapeless Video](https://www.youtube.com/watch?v=Zt6LjUnOcFQ)
 
+### Wrapping up:
 There we go.  So shapeless is geneic programming and generic programming is the type of polymorphism your lanuage doesn't support.  

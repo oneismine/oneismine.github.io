@@ -3,9 +3,8 @@ title: Top 10 Tech Podcasts
 date: '2018-12-26T23:46:37.121Z'
 author: 'Adam Gordon Bell'
 twitter: 'adamgordonbell'
-bio: 'Adam Gordon Bell is a Scala developer, who also hosts a podcast on software development'
+bio: 'Adam Gordon Bell is a Scala developer, who also hosts a <a href="https://corecursive.com">podcast on software development</a>'
 ---
-
 
 ### 1. [Software Engineering Daily]()
 With one episdoe a business day, and a focused format, Jeff at SEDaily is one of my favorite podcasts. My first podcast interview was also as a guest host on SEDaily, so I can't say enough good things about this podcast.
