@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "one-is-mine",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "a blog where tech people write stuff",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Adam Gordon Bell <adam@corecursive.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/oneismine/oneismine.github.io"
   },
   "dependencies": {
     "gatsby": "^2.0.75",
@@ -41,7 +41,7 @@
     "gh-pages": "^2.0.1",
     "prettier": "^1.14.2"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://oneismine.com",
   "keywords": [
     "gatsby"
   ],
@@ -49,7 +49,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/oneismine/oneismine.github.io.git"
   },
   "scripts": {
     "dev": "gatsby develop",

@@ -4,7 +4,7 @@ import Image from 'gatsby-image'
 
 import { rhythm } from '../utils/typography'
 
-function AboutShort() {
+function About() {
   return (
     <div
     style={{
@@ -13,25 +13,11 @@ function AboutShort() {
     }}
   >
     <p>
-      Listicles on software developement where one item must be by the author.
+      Listicles on software developement where one item must be by the author.  
+      Read more and <a href="https://github.com/oneismine/oneismine.github.io/blob/source/README.md">contribute</a>.
     </p>
   </div> 
   )
-}
-function About() {
-  return (
-          <div
-            style={{
-              display: `flex`,
-              marginBottom: rhythm(2.5),
-            }}
-          >
-            <p>
-              Listicles on software developement where one item must be by the author.
-            </p>
-          </div>
-        )
-    
 }
 
 export default About
