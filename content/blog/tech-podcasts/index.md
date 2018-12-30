@@ -6,7 +6,7 @@ twitter: 'adamgordonbell'
 bio: 'Adam Gordon Bell is a Scala developer, who also hosts a <a href="https://corecursive.com">podcast on software development</a>'
 ---
 ### Intro
-I listen to a lot of podcasts.  Tech podcast if done well are such a great resource.  It can be like listening to super smart colleagues discussing and explaining concepts.  It's also great when its just people you like shooting the breeze and hangning out.  Here is a list of some of my favorites.
+I listen to a lot of podcasts.  Tech podcasts if done well are such a great resource.  It can be like listening to super smart colleagues discussing and explaining concepts.  It's also great when its just people you like shooting the breeze and hangning out.  Here is a list of some of my favorites.
 
 ### 1. [Software Engineering Daily](https://softwareengineeringdaily.com/)
 With one episdoe a business day, and a focused format, Jeff at one of my favorite podcast Hosts. My first podcast interview was as a guest host on SEDaily. Jeff taught me the ropes of constructing an outline for any interview. I can't say enough good things about this podcast. SEDaily also has topic specific feeds, which are great if you want to binge on certain topic. I don't know how you do an epsidoes a day Jeff, Bravo.
