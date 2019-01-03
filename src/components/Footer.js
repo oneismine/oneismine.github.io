@@ -9,7 +9,7 @@ export default () => (
   }}
 >
   <p>
-    Tech Listicles by Makers. <a href="/about/">About</a> and <a href="https://github.com/oneismine/oneismine.github.io/blob/source/README.md">Contribute</a>.
+    Tech Listicles by Makers. <a href="/about/">About</a> and <a href="https://github.com/oneismine/oneismine.github.io/blob/source/README.md">Contribute</a> and <a href="https://twitter.com/oneisminecom">Twitter</a>.
   </p>
 </div>
 )
