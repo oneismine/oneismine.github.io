@@ -15,7 +15,7 @@ To me, that description seems like circular reasoning, but hopefully it will all
 This free ebook from underscore walks through shapeless in some fun detail.  I recommend after reading it you attempt to build your CSV parser and after that try your own Json parser using the techniques learned in the book.
 ### 2. [The Shapeless Gitter channel](https://gitter.im/milessabin/shapeless)
 If you have questions after reading the shapeless book. Gitter is a great place to go. 
-### 3. [Shapeless Exercises](https://www.scala-exercises.org/shapeless/generic).  
+### 3. [Shapeless Exercises](https://www.scala-exercises.org/shapeless/generic)  
 Scala Exercises has a whole section of shapeless exercises that you can use to cement your knowledge of the shapeless library.
 ### 4. [Generic Programming and Shapeless with Miles Sabin](https://corecursive.com/008-generic-programming-and-shapeless-with-miles-sabin/)
 In this interview with Miles Sabbin, the creator of shapeless, he explains how he created shapeless and also the reason why he created it.  The why is actually a pretty interesting story.
@@ -23,7 +23,7 @@ In this interview with Miles Sabbin, the creator of shapeless, he explains how h
 An article tackling whether using shapeless is worth it.  Spoiler alert, it is if you like type safey and avoid boiler plate.
 ### 6. [Getting Started with Shapeless](https://jto.github.io/articles/getting-started-with-shapeless/) 
 @skaalf's guide to getting started with shapeless.
-### 7. [@milessabin](https://twitter.com/milessabin) Miles Sabin on twitter.
+### 7. [@milessabin](https://twitter.com/milessabin) Miles Sabin on twitter
 Here is Miles on twitter. Follow him to keep up to date not just on shapeless but on many exicting type level projects.
 ### 8. [Code Mesh Kind PolyMorphism Talk](https://www.youtube.com/watch?v=xG00ivPa9hk) 
 This is a bit of reach. But let's say it will be intereting to those of us interested in Shapeless.
