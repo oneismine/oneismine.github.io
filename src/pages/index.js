@@ -6,7 +6,7 @@ import About from '../components/about'
 import Layout from '../components/layout'
 import SEO from '../components/seo'
 import { rhythm } from '../utils/typography'
-import AboutShort from '../components/AboutShort';
+import AboutShort from '../components/aboutshort';
 
 class BlogIndex extends React.Component {
   render() {
