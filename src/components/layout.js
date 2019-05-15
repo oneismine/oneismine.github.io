@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import AboutShort from '../components/AboutShort'
-import Footer from '../components/Footer'
+import AboutShort from '../components/aboutshort'
+import Footer from '../components/footer'
 
 import { rhythm, scale } from '../utils/typography'
 
